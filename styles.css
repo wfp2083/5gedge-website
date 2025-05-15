@@ -56,11 +56,12 @@ header {
 */
 
 .banner {
-    background: url('images/futuristic-smart-city-with-5g-global-network-technology.jpg') no-repeat center/cover;
+    background: url('images/5g-smart-city.png') no-repeat center/cover;
     text-align: center;
     padding: 5rem 2rem;
     color: #fff;
 }
+
 .banner h1 {
     font-size: 2.5rem;
     margin-bottom: 1rem;
