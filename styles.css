@@ -46,13 +46,21 @@ header {
 }
 
 /* Banner */
+/*
 .banner {
     background: url('https://source.unsplash.com/random/1600x400/?5g') no-repeat center/cover;
     text-align: center;
     padding: 5rem 2rem;
     color: #fff;
 }
+*/
 
+.banner {
+    background: url('images/5futuristic-smart-city-with-5g-global-network-technology') no-repeat center/cover;
+    text-align: center;
+    padding: 5rem 2rem;
+    color: #fff;
+}
 .banner h1 {
     font-size: 2.5rem;
     margin-bottom: 1rem;
